@@ -18,6 +18,7 @@ public class Ejemplo03 {
         // Tipos de dato en Java
         
         // Tipo de datos Entero
+  
         
         int variable1;
         int variable2 = 10;
@@ -45,6 +46,13 @@ public class Ejemplo03 {
         
         boolean variable9 = false;
         boolean variable10 = true;
+        
+         boolean variable11 = false;
+         // bolean variable11 = false; // incorrecto
+         variable11 = false;
+         variable11 = true;
+         
+        
     }
     
 }

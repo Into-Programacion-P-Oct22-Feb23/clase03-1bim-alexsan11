@@ -21,7 +21,7 @@ public class Ejemplo12 {
         int c = 9;
         int d = 2;
         
-        boolean resultado = !(a == c || b > d)  && (c > b + d * 2);
+        boolean resultado = !(a == c || b > d)  && (c > b + d * 2); // true
         System.out.println(resultado);
 
     }
